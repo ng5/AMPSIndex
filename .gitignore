@@ -2,5 +2,5 @@ cmake-build-release
 cmake-build-debug
 Release
 Debug
-.idea/.name
+.idea
 **/a.out
